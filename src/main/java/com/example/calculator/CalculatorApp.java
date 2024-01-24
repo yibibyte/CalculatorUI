@@ -11,6 +11,7 @@ import java.util.Objects;
 /**
  * @author I.G.V.
  * @version 1.0.0.1
+ *
  */
 public class CalculatorApp extends Application {
 
